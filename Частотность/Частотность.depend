@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488877428 source:c:\ООП\Частотность\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cctype>
+
+1488877428 source:c:\ООП\частотность\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cctype>
+
